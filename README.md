@@ -44,6 +44,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/mariamou7"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mariamou7" /></a></p><br><br>
 
-<h3 align="left"></h3>
+<h3 align="left">Some Extras:</h3>
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width="40" height="40"></a> 
+<a href='https://komarev.com/ghpvc/?username=mariamou7'><img src='https://komarev.com/ghpvc/?username=mariamou7'></a> 
 
