@@ -55,10 +55,11 @@
 </p>
 
 <h3 align="left">Support me:</h3>
-<p><a href="https://www.buymeacoffee.com/mariamou7"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mariamou7" /></a></p><br><br>
+<p align="left">
+<a href="https://www.buymeacoffee.com/mariamou7"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy me a coffee!" /></a>
+</p>
 
 <p align="right">
 <a href='https://komarev.com/ghpvc/?username=mariamou7'><img src='https://komarev.com/ghpvc/?username=mariamou7'></a> 
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width="40" height="40"></a> 
 </p>
-
