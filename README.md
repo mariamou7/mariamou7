@@ -30,11 +30,12 @@
 <h2 align="left">Awards and Certifications:</h2>
 <p align="left">
 <a href="https://mvp.microsoft.com/en-us/PublicProfile/5004643?fullName=Maria-Anastasia%20Moustaka" target="blank"><img align="center" src="https://mvp.microsoft.com/Content/Images/mvp-banner.png" alt="mariamou7" width="100px" /></a>
-
+ 
+<a href="https://www.credly.com/badges/041f3df3-c0dd-478d-8556-c40d54a30fe1" target="blank"><img align="center" src="https://images.credly.com/size/110x110/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png" width="100px" alt="mariamou7" /></a>
+<a href="https://www.credly.com/badges/6a4be26f-62b2-4fc8-a266-4d220888f059" target="blank"><img align="center" src="https://images.credly.com/size/340x340/images/2723937e-7860-4f43-bd2b-3c143b913c3b/power-platform-developer-600x600.png" width="100px" alt="mariamou7" /></a>
 <a href="https://www.credly.com/badges/aa56a1f7-9a67-4a12-8bb5-62781f7fa8d1" target="blank"><img align="center" src="https://images.credly.com/size/340x340/images/6a254dad-77e5-4e71-8049-94e5c7a15981/azure-fundamentals-600x600.png" width="100px" alt="mariamou7" /></a>
 <a href="https://www.credly.com/badges/748f5bdc-b0be-4fd9-80a0-a9f648f49721" target="blank"><img align="center" src="https://images.credly.com/size/340x340/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" width="100px" alt="mariamou7" /></a>
 <a href="https://www.credly.com/badges/38329fc6-a75a-46eb-aca4-4b8714678b29" target="blank"><img align="center" src="https://images.credly.com/size/340x340/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" width="100px" alt="mariamou7" /></a>
-<a href="https://www.credly.com/badges/6a4be26f-62b2-4fc8-a266-4d220888f059" target="blank"><img align="center" src="https://images.credly.com/size/340x340/images/2723937e-7860-4f43-bd2b-3c143b913c3b/power-platform-developer-600x600.png" width="100px" alt="mariamou7" /></a>
  
 <a href="https://www.credential.net/profile/mariaanastasiamoustaka879181/wallet" width="100px" target="blank"><img align="center" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/39231732" width="100px" /></a>
 <a href="https://jumpnet.enjinx.io/eth/asset/68c0000000000047" target="blank"><img align="center" src="https://cdn.enjinx.io/metadata/raw/7a2411aaac320ab4a397d237f7056e20ae0164be/47f08e323a0f89813ba967675876799fe6ed4b7f.jpg" height="100" width="100" /></a>
